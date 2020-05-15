@@ -87,6 +87,4 @@ async def getemo(name):
 
 key = 'RGAPI-dd06df7a-9c28-4cd2-9eb5-b907770a6308'  # api key from the rio database
 
-bot.run('NjYyNTA4NDQwODkxMDMxNTk0.XrRVcQ.V9oKvMHp6bpoi57MDm5FXnIVw2E') # bot token so that the code can run
-
-
+bot.run(' ') # bot token so that the code can run
